@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oboo</h1>
-<h3 align="center">Software Enginner from ❤️ ShangHai</h3>
+<h3 align="center">Software Enginner from ❤️ Shanghai</h3>
 <p align="center"><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obooman&show_icons=true" alt="obooman" /> </p>
 
 <p align="center">
